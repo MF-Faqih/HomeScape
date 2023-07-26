@@ -9,4 +9,17 @@ HomeScape is an application designed to help anyone looking for an apartment loc
 - Using Machine Learning, this application can provide convenience for users before they made any decisions
 
 If you want to see the HomeScape architecture, you can see it here: [HomeScape architecture](https://rpubs.com/MF-Faqih/HomeScape-Architecture)
-Also, if you want to try the apps, you can try it here: [HomeScape application](https://mffaqih.shinyapps.io/homescape/)
+
+If you want to try the apps, you can try them here: [HomeScape application](https://mffaqih.shinyapps.io/homescape/)
+
+# A little about HomeScape architecture
+
+HomeScape was built using [R](https://www.r-project.org/about.html) language, a language designed for statistical computing and graphics, then deploying the result in [shinyapps](https://www.rstudio.com/products/shiny/), an open-source R package that provides an elegant and powerful web framework for building web applications using R. The making of this project was through several stages.
+
+  - Data preparation
+  - Data preprocessing
+  - Machine learning
+  - Data analysis
+
+## Data preparation
+
