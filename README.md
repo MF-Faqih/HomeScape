@@ -12,14 +12,14 @@ If you want to see the HomeScape architecture, you can see it here: [HomeScape a
 
 If you want to try the apps, you can try them here: [HomeScape application](https://mffaqih.shinyapps.io/homescape/)
 
-# A little about HomeScape architecture
+# A Little About HomeScape Architecture
 
-HomeScape was built using [R](https://www.r-project.org/about.html) language, a language designed for statistical computing and graphics, then deploying the result in [shinyapps](https://www.rstudio.com/products/shiny/), an open-source R package that provides an elegant and powerful web framework for building web applications using R. The making of this project was through several stages.
+HomeScape was built using [R](https://www.r-project.org/about.html) language, a language designed for statistical computing and graphics, then deploying the result in [shinyapps](https://www.rstudio.com/products/shiny/), an open-source R package that provides an elegant and powerful web framework for building web applications using R. The making of this project was going through several stages.
 
   - Data preparation
   - Data preprocessing
   - Machine learning
   - Data analysis
 
-## Data preparation
+## Data Preparation
 
