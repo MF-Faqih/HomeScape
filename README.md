@@ -10,8 +10,6 @@ HomeScape is an application designed to help anyone who looking for an apartment
 
 If you want to see the HomeScape architecture, you can see it here: [HomeScape architecture](https://rpubs.com/MF-Faqih/HomeScape-Architecture)
 
-If you want to try the apps, you can try them here: [HomeScape application](https://mffaqih.shinyapps.io/homescape/)
-
 # A Little About HomeScape Architecture
 
 HomeScape was built using [R](https://www.r-project.org/about.html) language, a language designed for statistical computing and graphics, then deploying the result in [shinyapps](https://www.rstudio.com/products/shiny/), an open-source R package that provides an elegant and powerful web framework for building web applications using R. The making of this project was going through several stages.
@@ -37,3 +35,11 @@ Here I'm using two kinds of machine learning:
   - [Decision Tree](https://www.mastersindatascience.org/learning/machine-learning-algorithms/decision-tree/)
   - [Random Forest](https://www.analyticsvidhya.com/blog/2021/06/understanding-random-forest/)
 - [**K-Means Clustering**](https://towardsdatascience.com/understanding-k-means-clustering-in-machine-learning-6a6e67336aa1) to group each apartment into groups with similar characteristics
+
+## Data Analysis
+
+HomeScpae was provided with some analysis to help the user make their decision in buying an apartment. some of the analyses that I use here are:
+- Average price distribution of apartments in each city
+- Data on the total frequency of types of apartments sold in the market
+
+If you want to try the apps, you can try it here: [HomeScape application](https://mffaqih.shinyapps.io/homescape/)
