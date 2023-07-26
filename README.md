@@ -23,3 +23,19 @@ HomeScape was built using [R](https://www.r-project.org/about.html) language, a 
 
 ## Data Preparation
 
+Here, I'm using two data to make HomeScape. The first data I obtained by doing web scrapping from [lamudi.co.od](https://www.lamudi.co.id/), this data was used for analysis and machine learning. The second data was map data with JSON data type that I obtained from [GADM](https://gadm.org/download_country_v3.html), this data was used to build an interactive map using a leaflet.
+
+## Data Preprocessing
+
+Before I'mm doing any analysis or prediction using machine learning, I need to clean my data to make sure it's quality, consistency, and compatibility. Anything that is done here such as handling outliers, handling abnormal values, and handling missing values.
+
+## Machine Learning
+
+Here I'm using two kinds of machine learning:
+
+- **Classification Machine Learning** to make price predictions based on apartment characteristics. The two models are
+  - [Decision Tree](https://www.mastersindatascience.org/learning/machine-learning-algorithms/decision-tree/)
+  - [Random Forest](https://www.analyticsvidhya.com/blog/2021/06/understanding-random-forest/)
+- [**K-Means Clustering**](https://towardsdatascience.com/understanding-k-means-clustering-in-machine-learning-6a6e67336aa1) to group each apartment into groups with similar characteristics
+
+
