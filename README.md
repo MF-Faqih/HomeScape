@@ -38,7 +38,7 @@ Here I'm using two kinds of machine learning:
 
 ## Data Analysis
 
-HomeScpae was provided with some analysis to help the user make their decision in buying an apartment. some of the analyses that I use here are:
+HomeScpae was provided with some analysis to help the user make their decision in buying an apartment. Some of the analyses that I use here are:
 - Average price distribution of apartments in each city
 - Data on the total frequency of types of apartments sold in the market
 
