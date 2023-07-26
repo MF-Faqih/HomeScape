@@ -37,5 +37,3 @@ Here I'm using two kinds of machine learning:
   - [Decision Tree](https://www.mastersindatascience.org/learning/machine-learning-algorithms/decision-tree/)
   - [Random Forest](https://www.analyticsvidhya.com/blog/2021/06/understanding-random-forest/)
 - [**K-Means Clustering**](https://towardsdatascience.com/understanding-k-means-clustering-in-machine-learning-6a6e67336aa1) to group each apartment into groups with similar characteristics
-
-
